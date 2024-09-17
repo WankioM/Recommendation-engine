@@ -2,5 +2,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Get recommends")
+	var nameOne string = "Tracy"
+	fmt.Println(nameOne)
 }
